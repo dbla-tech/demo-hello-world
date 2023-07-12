@@ -103,7 +103,7 @@ The following resources were created in your account:
 	- Artifact bucket
 	- Pipeline IAM user
 Pipeline IAM user credential:
-	AWS_ACCESS_KEY_ID: AKIAZRMEZGGMSD3FF7NZ
+	AWS_ACCESS_KEY_ID: AKIAZRMEXAMPLE3FF7NZ
 	AWS_SECRET_ACCESS_KEY: GU3Z/R1/2/3t8R8JU2UPYzQHc2VfROuvTuNBVUaB
 View the definition in .aws-sam/pipeline/pipelineconfig.toml,
 run sam pipeline bootstrap to generate another set of resources, or proceed to
